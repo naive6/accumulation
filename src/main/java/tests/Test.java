@@ -2,7 +2,7 @@ package tests;
 
 public class Test implements Cloneable {
 
-
+    //
     private int a;
 
 
